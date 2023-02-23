@@ -31,7 +31,7 @@ const Profile = () => {
                         </div>
                         <div className='profile-details-name'>
                             <span className='primary-text'>
-                                Hello I am <span className='highlighted-text'>Qasim</span>
+                                Hello I am <span className='highlighted-text'>Qasim portfolio after build change</span>
                             </span>
 
                         </div>
